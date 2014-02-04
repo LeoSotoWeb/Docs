@@ -15,6 +15,10 @@ if (apps) {
 1. Use the "Upload Package File" option to choose the previously downloaded package from your pc.
 1. Click on the "Upload & Install" button.
 
+<% if (title=='ZOOcart') { %>
+	ZOOcart requires ZOOlanders component to be installed. You can download it from ZOOlanders official site https://www.zoolanders.com/
+<% } %>
+
 <% if (package.plugin) { %>
    Once the installation process have finished the **<%= package.plugin %>** plugin should be installed and published. To be sure go to *Joomla Administration / Extensions / Plugin Manager* and check if it is present and enabled.
 <% } %>
