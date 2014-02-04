@@ -9,7 +9,7 @@ Note, that for proper work ZOOcart requires ALL of these elements ( **"PricePro"
 
 ## Step 2. Setup ZOOcart
 
-To configure **ZOOcart** for ZOO applications switch to the component Components>ZOOlanders in your Joomla Admin Paneland click the "ZOOcart" tab.
+To configure **ZOOcart** for ZOO applications switch to the component (Components / ZOOlanders) in your Joomla Admin Panel and click the "ZOOcart" tab.
 
 ![Setup ZOOcart](http://joolanders.github.io/Docs/docs/ZOOcart/images/zc4.png)
 
