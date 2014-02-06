@@ -44,8 +44,7 @@ As noted earlier, you can't just import data directly into ZOOlander pro element
   9. For each field of the CSV file that is listed on the left of the import screen, select a ZOO element using the drop-down selectors along the right.
     * Note: If an element or attribute doesn't appear in the selector it means that ZOO cannot import into that element/attribute type
   10. Click the Import button to begin the import
-5. Upgrade any ZOO standard elements that you used to the ZOOlander Pro version.    
-    [Click here for instructions on upgrading elements](https://www.zoolanders.com/docs-extensions/insert-switching-to-pro/ "Switching to Pro")
+5. Upgrade any ZOO standard elements that you used to the ZOOlander Pro version. Check individual Element documentation for instructions on upgrading.
 
 That's all there is to it. Your data should now be imported and available in the ZOO standard or ZOOlander pro elements.
 
@@ -53,7 +52,7 @@ That's all there is to it. Your data should now be imported and available in the
 
 Unfortunately, due to the features that are added by ZOOlander pro elements and the limitations of the core ZOO export you presently only have two options for exporting data from ZOO.
 
-First - you can **downgrade** your existing ZOOlander pro element to a standard ZOO element (reversing the steps that you followed in the [Switching to Pro](https://www.zoolanders.com/docs-extensions/insert-switching-to-pro/ "Switching to Pro") instructions). That unfortunately will cause you to loose some of your data when exporting. 
+First - you can **downgrade** your existing ZOOlander pro element to a standard ZOO element (reversing the steps you followed while Switching to Pro). That unfortunately will cause you to loose some of your data when exporting. 
 
 NOTE: The loss indicated here is not just related to element configuration settings that are made available by the pro element but also data that may have been entered into a pro element that add the **Repeatable** functionality where the standard element doesn't offer it (like in the Text/Textarea Pro elements).
 
